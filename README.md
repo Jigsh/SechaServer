@@ -1,2 +1,1 @@
-# SechaServer
-Sencha Backend for UMM
+# senchaserver
